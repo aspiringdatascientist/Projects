@@ -23,9 +23,7 @@ in U.S. for the given Twitter post using Python based Machine learning NLP Class
 model. What is being said about Electoral College on social media? How has the sentiment
 changed over the years? This project explores on answering these questions and predicting
 how positive, neutral or negative each tweet is about electoral college.
-[Project link](https://github.com/aspiringdatascientist/Capstone2-Sentiment-
-Analysis-of-Twitterdata/
-blob/master/Twitter%20Sentiment%20Analysis%20of%20Electoral%20College%20in%20U.S.%20)
+[Project link](https://github.com/aspiringdatascientist/Capstone2-Sentiment-Analysis-of-Twitter-data/blob/master/Twitter%20Sentiment%20Analysis%20of%20Electoral%20College%20in%20U.S.%20_Final%20Report.pdf)
 
 3. Ultimate Challenge:
 
